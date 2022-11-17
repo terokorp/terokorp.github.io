@@ -1,0 +1,26 @@
+---
+title:  "MoRec"
+date:   2022-08-02 12:00:00 +0300
+categories: Personal
+tags: tool highlight .NET C#
+excerpt: "MoRec is adapter tool to convert IFacialMocap realtime facetracking data..."
+header:
+  image: /assets/images/unsplash-gallery-image-1.jpg
+  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+sidebar:
+  - title: "Role"
+    text: "Planning, Tecnical designer, Coding"
+  - title: "Responsibilities"
+    text: " "
+---
+
+MoRec is adapter tool to convert IFacialMocap realtime facetracking data stream for Faceit. Other protocols area planned.
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6knAH_c7mM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Download MoRec from my [Discord](https://discord.gg/TWvpUkFuYy)
+
+On blender side [Faceit plugin](https://blendermarket.com/products/faceit) is used for recieving face animation data.
+
+Special thanks to [Riisipuuro](https://riisipuuro.com/) for recording this example
