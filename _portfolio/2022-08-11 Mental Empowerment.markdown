@@ -12,6 +12,7 @@ sidebar:
     text: "Tecnical designer, Coding"
   - title: "Responsibilities"
     text: " "
+order: 3
 ---
 
 > For Noema HR, Emozionella created a platform to deliver mental empowering experiences to VR META Quest 2 device. 

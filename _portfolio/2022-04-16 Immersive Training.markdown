@@ -12,6 +12,7 @@ sidebar:
     text: "Tecnical designer, Coding"
   - title: "Responsibilities"
     text: " "
+order: 4
 ---
 
 Immersive Training is a collection of three separate products

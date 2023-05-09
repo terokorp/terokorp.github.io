@@ -12,6 +12,7 @@ sidebar:
     text: "Coding"
   - title: "Responsibilities"
     text: " "
+order: 5
 ---
 
 > Meet Magic Vision City Tour, our latest wearable #AR product that makes super easy for tourists to discover the past and present of cities in a new, exciting way.

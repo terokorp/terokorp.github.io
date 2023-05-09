@@ -16,6 +16,7 @@ gallery:
   - url: /assets/images/hedelmapeli.png
     image_path: assets/images/hedelmapeli.png
     alt: "Photo"
+order: 1
 ---
 
 This game has no final name yet, but it is working concept. I have plans to release this on Steam at some point when I get everything finished.
