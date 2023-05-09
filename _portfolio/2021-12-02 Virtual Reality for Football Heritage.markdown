@@ -10,8 +10,6 @@ header:
 sidebar:
   - title: "Role"
     text: "Tecnical designer, Coding"
-  - title: "Responsibilities"
-    text: " "
 ---
 
 > The recreation of a football mach in virtual reality was never done before and now it is reality. 
