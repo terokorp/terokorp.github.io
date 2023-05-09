@@ -1,5 +1,5 @@
 ---
-title:  "Immersive Training: Elevator pitch"
+title:  "Immersive Training"
 date:   2022-04-16 12:00:00 +0300
 categories: Emozionella
 tags: vr unity C#
@@ -14,7 +14,19 @@ sidebar:
     text: " "
 ---
 
+Immersive Training is a collection of three separate products
+
+## Objections Handling 
+
+> 
+
+## Elevator pitch
+
 > Emozionella created a VR simulation to allow business people to test their elevator pitch. A virtual character (Markus Adams) has been created to interact with the player like a real person in an elevator. The app is part of Noema Immersive training and it is fully customizable. At the end it provides a score based on how time was used during the interaction with the virtual character.
+
+## Argumentations
+
+> 
 
 
 On media:
