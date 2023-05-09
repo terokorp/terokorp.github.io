@@ -3,3 +3,10 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# to exclude Obsidian workspace settings (including plugin and hotkey configurations)
+.obsidian/*
+.obsidian/workspace/*
+.obsidian/plugins/*
+.obsidian-git-data
+
