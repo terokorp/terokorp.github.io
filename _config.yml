@@ -87,7 +87,7 @@ author:
   name: "Tero Korpela"
   avatar: "/assets/images/bio-photo-tk.jpg"
   bio: " " # Note: Markdown is allowed
-  location: "Seinäjoki, Finland"
+  location: "Jyväskylä, Finland"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
