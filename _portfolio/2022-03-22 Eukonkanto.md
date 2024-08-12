@@ -25,6 +25,9 @@ gallery:
   - url: /assets/images/wifecarrying4.jpg
     image_path: /assets/images/wifecarrying4.jpg
     alt: "Gameplay 3"
+  - url: /assets/videos/4_5764702068149324587.mp4
+    image_path: /assets/images/wifecarrying_vlcsnap.png
+    alt: "Gameplay Video"
 ---
 
 Eukonkanto is mobile game made on  [Game of Thrones Jam North](https://www.igda.fi/new-events/gotgamejam). It is based to Finnish national sports called Eukonkanto, ([Wife carrying](https://en.wikipedia.org/wiki/Wife-carrying))
