@@ -1,8 +1,8 @@
 ---
 title:  "Magic Vision"
 date:   2022-03-22 12:00:00 +0300
-categories: Emozionella
-tags: highlight ar unity C#
+categories: [Emozionella]
+tags: [highlight, AR, Unity, C#]
 excerpt: "Meet Magic Vision City Tour, our latest wearable #AR product that makes super easy for tourists to discover..."
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg

@@ -1,8 +1,8 @@
 ---
 title:  "Kokemuspisteita"
 date:   2022-02-01 12:00:00 +0300
-categories: JKL
-tags: vr unity C# highlight
+categories: [JKL]
+tags: [VR, Unity, C#, highlight]
 excerpt: "Kokemuspisteitä (Experience points) was a Video Game Art Exhibition..."
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg

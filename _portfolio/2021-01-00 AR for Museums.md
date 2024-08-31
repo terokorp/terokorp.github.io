@@ -1,8 +1,8 @@
 ---
 title:  "AR for Museums"
 date:   2021-12-02 12:00:00 +0300
-categories: Emozionella
-tags: ar unity C#
+categories: [Emozionella]
+tags: [AR, Unity, C#]
 excerpt: "For Noema HR, Emozionella developed a series of Augmented Reality experiences..."
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
@@ -29,5 +29,3 @@ gallery:
 > 2) content triggered by the location 
 > 3) 3d content triggered by a QR code
 > The experience was using also beacons
-
-{% include gallery caption="" %}

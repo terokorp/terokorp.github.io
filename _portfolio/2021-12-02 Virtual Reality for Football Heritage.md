@@ -1,17 +1,21 @@
 ---
 title:  "Virtual Reality for Football Heritage"
 date:   2021-12-02 12:00:00 +0300
-categories: Emozionella
-tags: vr unity C#
+categories: [Emozionella]
+tags: [vr, Unity, C#]
 excerpt: "The recreation of a football mach in virtual reality was never done before and now..."
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
 sidebar:
   - title: "Role"
-    text: "Tecnical designer, Coding"
+    text: "Tecnical designer, Lead programmer"
 order: 2
 ---
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2jYko0QR29I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/de7inoIUxdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > The recreation of a football mach in virtual reality was never done before and now it is reality. 
 > In partnership with Noema Digital Italy, we recreated the 3 goals scored by Paolo Rossi, during the historic soccer match Italy-Brazil of FIFA world cup 1982. 
@@ -23,10 +27,6 @@ order: 2
 > The experience premiered at a roadshow about Paolo Rossi in Trento Italy at the "Festival dello sport" 7-10 October 2021.
 >
 > A great thank you to Noema Digital for their visionary concept and to the Emozionella Sports team for turning this vision into reality.
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2jYko0QR29I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/de7inoIUxdM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 On media:
 * [News article: L'Opinione delle Libertà](https://www.opinione.it/hi-tech/2022/06/13/claudio-bellumori_italia-germania-tecnologia-futuro-paolo-rossi/)

@@ -1,15 +1,15 @@
 ---
 title:  "Eukonkanto"
 date:   2022-03-22 12:00:00 +0300
-categories: JAMK
-tags: game unity C# mobile highlight gamejam
+categories: [JAMK]
+tags: [game, Unity, C#, mobile, highlight, gamejam]
 excerpt: "Eukonkanto is mobile game made on Game of Thrones Jam North..."
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
 sidebar:
   - title: "Role"
-    text: "Planning, Tecnical designer, Coding"
+    text: "Planning, Tecnical designer, Lead programmer"
   - title: "Responsibilities"
     text: " "
 gallery:
@@ -30,7 +30,7 @@ gallery:
     alt: "Gameplay Video"
 ---
 
-Eukonkanto is mobile game made on  [Game of Thrones Jam North](https://www.igda.fi/new-events/gotgamejam). It is based to Finnish national sports called Eukonkanto, ([Wife carrying](https://en.wikipedia.org/wiki/Wife-carrying))
+Eukonkanto is mobile game made during [Game of Thrones Jam North](https://www.igda.fi/new-events/gotgamejam). It is based to Finnish national sports called Eukonkanto, ([Wife carrying](https://en.wikipedia.org/wiki/Wife-carrying)). With this project we got the best result on Jam and won partnership agreement with Grazy Labs.
 
 On media:
 * [CrazyLabs / Game of Thrones Jam!](https://www.linkedin.com/feed/update/urn:li:activity:6944970900647682048/)

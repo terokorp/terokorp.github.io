@@ -1,15 +1,15 @@
 ---
 title:  "Virtual Reality Mental Empowerment"
 date:   2022-08-11 12:00:00 +0300
-categories: Emozionella
-tags: vr unity C#
+categories: [Emozionella]
+tags: [vr, unity, C#]
 excerpt: "Emozionella created a platform to deliver mental empowering experiences to VR META Quest 2 device..."
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
 sidebar:
   - title: "Role"
-    text: "Tecnical designer, Coding"
+    text: "Tecnical designer, Lead programmer"
   - title: "Responsibilities"
     text: " "
 order: 3
