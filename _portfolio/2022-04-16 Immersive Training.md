@@ -2,8 +2,8 @@
 title:  "Immersive Training"
 date:   2022-04-16 12:00:00 +0300
 categories: [Emozionella]
-tags: [vr, unity, C#]
-excerpt: "Immersive Training"
+tags: [VR, Unity, C#]
+excerpt: "Immersive Training is a collection of three separate VR products"
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg

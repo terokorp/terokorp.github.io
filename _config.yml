@@ -29,7 +29,7 @@ title:                   "Tero Korpela"
 title_separator:         "-"
 subtitle:                "Portfolio"
 name:                    &name "Tero Korpela" # &name is a YAML anchor which can be *referenced later
-description:             &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+description:             &description "Here is my portfolio"
 url:                     "https://terokorp.github.io"
 baseurl:                 ""
 repository:              "terokorp/terokorp.github.io"
