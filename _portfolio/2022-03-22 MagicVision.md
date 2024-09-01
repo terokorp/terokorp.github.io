@@ -15,6 +15,8 @@ sidebar:
 order: 5
 ---
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jnwkRlRgiCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 > Meet Magic Vision City Tour, our latest wearable #AR product that makes super easy for tourists to discover the past and present of cities in a new, exciting way.
 > 
 > It launched recently in Toledo and it is making hundreds of tourists happy every month.
@@ -22,8 +24,6 @@ order: 5
 > The experience is spectacular, wear Magic Vision smart glasses (Epson Moverio) and start looking at the city: as you look around, you will see appearing buildings’ internal details, their history and hidden secrets. It feels like magic.
 > 
 > Magic Vision City Tour is driven by a solid business case and has enabled our business customer to tap into new markets and see rise in margins.
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jnwkRlRgiCE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 On media:
 * [Magic Vision on ISE2020 / Epson](https://www.linkedin.com/posts/epson-europe-b-v-_ise2020-moverio-ar-activity-6633329789665189888-CRSw?utm_source=share&utm_medium=member_desktop){:target="_blank"}

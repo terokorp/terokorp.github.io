@@ -24,6 +24,8 @@ order: 1
 
 You are working as **Interdimensional Switchboard Operator** in space where you have to connect incoming calls to their destiantions between different dimensions, times and universes while attempting to maintain the secrecy of the existence of the interdimensional switchboard office.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/P1mpPLyACcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Project core team:
 - Isabelle Grunewald - Art, UI, Game design
 - [Sami Huttula](https://www.linkedin.com/in/sami-huttula-a3285b252/) - 3D Modeling, Game design
@@ -33,7 +35,5 @@ Project core team:
 - Kimmo Riipinen - Programming, Game design
 
 - And multiple voice actors
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/P1mpPLyACcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% include gallery caption="Here are screenshots from this project." %}

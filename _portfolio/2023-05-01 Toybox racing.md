@@ -19,11 +19,11 @@ gallery:
 order: 1
 ---
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zANrFEIM6Nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 This game has no final name yet, but it is working concept. I have plans to release this on Steam at some point when I get everything finished.
 
 Special thanks to [Riisipuuro](https://riisipuuro.com/), she has made nice characters to this project.
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zANrFEIM6Nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% include gallery caption="Here are some images related to this project." %}
 
