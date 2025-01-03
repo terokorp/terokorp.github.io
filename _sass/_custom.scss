@@ -1,0 +1,14 @@
+.highlight {
+    border: 1px solid #ccc;
+	resize: both;
+	overflow: auto;
+    min-height: 200px; /* Minimum height */
+    max-height: none; /* Maximum height */
+	height: 300px;
+}
+.highlight > pre {
+	font-family: monospace;
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}

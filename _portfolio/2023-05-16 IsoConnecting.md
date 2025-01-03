@@ -2,7 +2,7 @@
 title:  "Interdimensional Switchboard Operator"
 date:   2023-05-16 12:00:00 +0300
 categories: [JAMK]
-tags: [.NET, C#, Unity]
+tags: [Game, C#, Unity]
 excerpt: "Iso Connecting is a working simulator made on Software Engineering JAMKs course"
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
